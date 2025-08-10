@@ -1,6 +1,9 @@
 Readme.md
 Publicacion del Trabajo #3 del Grupo 8 de la materia de Tratamiento de Datos.
 
+# Proposito del trabajo es :
+¿Qué segmentos de clientes (Consumer, Corporate, Home Office, etc.) generan mayor volumen de ventas y margen de Rentabilidad?
+
 # 📊 Análisis de Ventas y Rentabilidad en Retail – Grupo 8
 
 Este repositorio documenta el trabajo práctico de la clase 3, realizado por el Grupo 8. Se analiza el dataset **"Sample – Superstore"**, aplicando técnicas de limpieza, transformación y visualización con Python.
